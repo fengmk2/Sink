@@ -19,7 +19,7 @@ export default defineNuxtConfig({
 
   runtimeConfig: {
     siteToken: 'SinkCool',
-    redirectStatusCode: '301',
+    redirectStatusCode: '302',
     linkCacheTtl: 60,
     redirectWithQuery: false,
     homeURL: '',
